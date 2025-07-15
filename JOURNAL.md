@@ -16,3 +16,9 @@ Finalized this layout
 
 
 **Total time spent: 2h**
+
+# July 15th: Learned about different keyboard styles and layouts
+
+Researched about keyswitches and different parts that go into making a keyboard.
+
+**Total time spent: 1.5h**
