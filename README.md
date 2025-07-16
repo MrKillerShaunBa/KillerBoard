@@ -13,6 +13,6 @@ Making a mechanical keyboard
 | Case | 1 | Printing Legion | - | - | Only shipping |
 | Hotswap Sockets | 10*7 | Meckeys | 536 | 6.23 | [here](https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/kailh-hot-swap-socket/) |
 | 1N4148 Diodes | 10*7 | StacksKB | 105 | 1.22 | [here](https://stackskb.com/store/1n4148-through-hole-diode/) |
-| ProMicro nRF52840 | 1 | Robokits India | 900 | 10.47 | [here](https://robokits.co.in/iot-wireless-solutions/iot-internet-of-things/iot-esp-module/supermini-nrf52840-pro-micro-bluetooth-le-ble-controller-arduino-compatible?products_id=6030:3a24b25a7b092a252166a1641ae953e7)|
+| ProMicro nRF52840 | 1 | Robokits India | 715 | 8.33| [here](https://robu.in/product/promicro-nrf52840-development-board/)|
 
 
