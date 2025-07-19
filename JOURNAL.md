@@ -17,8 +17,23 @@ Finalized this layout
 
 **Total time spent: 2h**
 
-# July 15th: Learned about different keyboard styles and layouts
+# July 15th: Made a rough BOM and a rough wiring
 
-Researched about keyswitches and different parts that go into making a keyboard.
+Researched about key switches and different parts that go into making a keyboard. Made a rough BOM about what is needed.
+Also, I am making this one wireless using a nice nano clone!. Made a rough matrix wiring diagram through multiple iterations to meet the number of pins available.
 
-**Total time spent: 1.5h**
+<img width="1367" height="446" alt="Screenshot 2025-07-17 005816" src="https://github.com/user-attachments/assets/ebef014a-57ec-43d2-9b15-f456f2b2b1f7" />
+
+<img width="1367" height="468" alt="Screenshot 2025-07-17 005815" src="https://github.com/user-attachments/assets/149db696-a188-474b-90dd-640c441023e7" />
+
+Final layout
+<img width="1367" height="522" alt="Screenshot 2025-07-17 005817" src="https://github.com/user-attachments/assets/31a8ff1c-1b89-48fa-89ff-e7024c04509b" />
+
+**Total time spent: 3.5h**
+
+# July 17th: Made the schematic
+
+Made the schematic in Kicad, connecting so many switches correctly was painful.
+
+<img width="939" height="657" alt="image" src="https://github.com/user-attachments/assets/997f2bfe-a7e7-4664-b248-f10702c7ce7f" />
+
