@@ -37,3 +37,12 @@ Made the schematic in Kicad, connecting so many switches correctly was painful.
 
 <img width="939" height="657" alt="image" src="https://github.com/user-attachments/assets/997f2bfe-a7e7-4664-b248-f10702c7ce7f" />
 
+**Total time spent: 2.5h**
+
+# July 19th: Finished the PCB
+
+Used keyboard layout plugin to place the components in the PCB editor. Routed everything
+
+<img width="1139" height="411" alt="image" src="https://github.com/user-attachments/assets/1ab23d6b-1060-4a56-ab27-ab45919c4119" />
+
+**Total time spent: 3h**
