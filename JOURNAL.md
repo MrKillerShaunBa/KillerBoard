@@ -45,4 +45,10 @@ Used keyboard layout plugin to place the components in the PCB editor. Routed ev
 
 <img width="1139" height="411" alt="image" src="https://github.com/user-attachments/assets/1ab23d6b-1060-4a56-ab27-ab45919c4119" />
 
+<img width="940" height="523" alt="image" src="https://github.com/user-attachments/assets/fc3d67ae-04e0-43b4-aa85-24a82749ffc2" />
+
+<img width="1068" height="594" alt="image" src="https://github.com/user-attachments/assets/a99a859f-c640-420a-874a-3b3684fa563b" />
+
+
+
 **Total time spent: 3h**
