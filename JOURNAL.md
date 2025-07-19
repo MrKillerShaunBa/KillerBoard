@@ -52,3 +52,10 @@ Used keyboard layout plugin to place the components in the PCB editor. Routed ev
 
 
 **Total time spent: 3h**
+
+# July 20th: Critical mistake and fix
+
+As it is obvious (not in the first glance) that I mistakenly built a mirror image of the keyboard. I tried to ue flip and mirror but nothing worked. I had to redo the whole PCB wiring.
+
+<img width="1179" height="427" alt="image" src="https://github.com/user-attachments/assets/805bb181-fbd2-4c94-841f-3a839c66a71e" />
+
