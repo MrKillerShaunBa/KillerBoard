@@ -72,6 +72,8 @@ Finalised other components like PCB receptacles, battery and power switch and ad
 
 Started working on the case, made the bottom. Used the hackpad guide as a reference to make this. One new thing I learned is adding an angle to improve ergonomics.
 
+<img width="1311" height="552" alt="image" src="https://github.com/user-attachments/assets/b0926f29-e3a1-44e9-a71e-c1911df7eac9" />
+
 <img width="1913" height="810" alt="image" src="https://github.com/user-attachments/assets/f5639597-8321-45b4-8fcb-0dbbf69ca9a1" />
 
 
