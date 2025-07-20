@@ -53,7 +53,7 @@ Used keyboard layout plugin to place the components in the PCB editor. Routed ev
 
 **Total time spent: 3h**
 
-# July 20th: Critical mistake and fix
+# July 20th: Critical mistake and fix, Case
 
 As it is obvious (not in the first glance) that I mistakenly built a mirror image of the keyboard. I tried to use flip and mirror but nothing worked. I had to redo the whole PCB wiring.
 
@@ -85,4 +85,14 @@ Have made notches for my switches to mount on and have left spaces for the stabl
 <img width="1435" height="555" alt="image" src="https://github.com/user-attachments/assets/3e5bb765-0505-47e0-81dc-d984e39f2b55" />
 
 
-**Total time spent: 6.5**
+**Total time spent: 6h**
+
+# July 21th: Test fitting
+
+Imported the 3d PCB design to Fusion and test fitted with the base and plate.
+
+<img width="1335" height="774" alt="image" src="https://github.com/user-attachments/assets/75284e89-71ea-489d-bd56-7295f7e6beb8" />
+
+<img width="1264" height="798" alt="image" src="https://github.com/user-attachments/assets/95cfbbe4-b7fb-4129-9149-8e2f7ea5f85b" />
+
+**Total time spent: 1h**
