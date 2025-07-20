@@ -68,5 +68,6 @@ Added a switch to conserve battery.
 <img width="285" height="393" alt="image" src="https://github.com/user-attachments/assets/ea6172ca-6323-4831-9839-827117e5622f" />
 <img width="476" height="259" alt="image" src="https://github.com/user-attachments/assets/edd95262-81c5-4e60-a959-ee82c7859272" />
 
+Finalised other components like PCB receptacles, battery and power switch and added them to BOM.
 
-**Total time spent: 3.5**
+**Total time spent: 4.5**
