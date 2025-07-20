@@ -55,12 +55,18 @@ Used keyboard layout plugin to place the components in the PCB editor. Routed ev
 
 # July 20th: Critical mistake and fix
 
-As it is obvious (not in the first glance) that I mistakenly built a mirror image of the keyboard. I tried to ue flip and mirror but nothing worked. I had to redo the whole PCB wiring.
+As it is obvious (not in the first glance) that I mistakenly built a mirror image of the keyboard. I tried to use flip and mirror but nothing worked. I had to redo the whole PCB wiring.
 
 <img width="1179" height="427" alt="image" src="https://github.com/user-attachments/assets/805bb181-fbd2-4c94-841f-3a839c66a71e" />
 
 Changes the positions of some diodes so that they dont interfere with the stabilizers. Added some silkscreen art.
 
 <img width="1116" height="387" alt="image" src="https://github.com/user-attachments/assets/27888d6a-033e-420c-a7c8-088dd4666d04" />
+
+Added a switch to conserve battery.
+
+<img width="285" height="393" alt="image" src="https://github.com/user-attachments/assets/ea6172ca-6323-4831-9839-827117e5622f" />
+<img width="476" height="259" alt="image" src="https://github.com/user-attachments/assets/edd95262-81c5-4e60-a959-ee82c7859272" />
+
 
 **Total time spent: 3.5**
