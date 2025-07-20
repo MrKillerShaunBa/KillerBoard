@@ -76,5 +76,13 @@ Started working on the case, made the bottom. Used the hackpad guide as a refere
 
 <img width="1913" height="810" alt="image" src="https://github.com/user-attachments/assets/f5639597-8321-45b4-8fcb-0dbbf69ca9a1" />
 
+Made the plate for my keyboard. Designed it as a 3mm plate since 1.5mm is a bit flimsy.
+
+<img width="1322" height="805" alt="image" src="https://github.com/user-attachments/assets/a0d4464a-7fe0-488e-a256-246ed64c3837" />
+
+Have made notches for my switches to mount on and have left spaces for the stablizers.
+
+<img width="1435" height="555" alt="image" src="https://github.com/user-attachments/assets/3e5bb765-0505-47e0-81dc-d984e39f2b55" />
+
 
 **Total time spent: 5.5**
