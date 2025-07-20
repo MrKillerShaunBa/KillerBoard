@@ -70,4 +70,9 @@ Added a switch to conserve battery.
 
 Finalised other components like PCB receptacles, battery and power switch and added them to BOM.
 
-**Total time spent: 4.5**
+Started working on the case, made the bottom. Used the hackpad guide as a reference to make this. One new thing I learned is adding an angle to improve ergonomics.
+
+<img width="1913" height="810" alt="image" src="https://github.com/user-attachments/assets/f5639597-8321-45b4-8fcb-0dbbf69ca9a1" />
+
+
+**Total time spent: 5.5**
