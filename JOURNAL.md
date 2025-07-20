@@ -59,3 +59,8 @@ As it is obvious (not in the first glance) that I mistakenly built a mirror imag
 
 <img width="1179" height="427" alt="image" src="https://github.com/user-attachments/assets/805bb181-fbd2-4c94-841f-3a839c66a71e" />
 
+Changes the positions of some diodes so that they dont interfere with the stabilizers. Added some silkscreen art.
+
+<img width="1116" height="387" alt="image" src="https://github.com/user-attachments/assets/27888d6a-033e-420c-a7c8-088dd4666d04" />
+
+**Total time spent: 3.5**
