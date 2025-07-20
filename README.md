@@ -13,6 +13,8 @@ Making a mechanical keyboard
 | Case | 1 | Printing Legion | - | - | Only shipping |
 | Hotswap Sockets | 10*7 | Meckeys | 536 | 6.23 | [here](https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/kailh-hot-swap-socket/) |
 | 1N4148 Diodes | 10*7 | StacksKB | 105 | 1.22 | [here](https://stackskb.com/store/1n4148-through-hole-diode/) |
-| ProMicro nRF52840 | 1 | Robokits India | 715 | 8.33| [here](https://robu.in/product/promicro-nrf52840-development-board/)|
+| ProMicro nRF52840 | 1 | Robu.in | 715 | 8.33| [here](https://robu.in/product/promicro-nrf52840-development-board/) |
+| Slide Switch | 1 | Robu.in | 3 | 0.035 | [here](https://robu.in/product/ss-12f21g5-slide-1p2t-angled-switchheight5mm/) |
+| Battery | 1 | Robu.in | 256 | 2.97 | [here](https://robu.in/product/wly602540-600mah-3-7v-single-cell-rechargeable-lipo-battery/) |
 
 
