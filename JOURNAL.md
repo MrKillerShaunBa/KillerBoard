@@ -87,7 +87,7 @@ Have made notches for my switches to mount on and have left spaces for the stabl
 
 **Total time spent: 6h**
 
-# July 21th: Test fitting
+# July 21st: Test fitting
 
 Imported the 3d PCB design to Fusion and test fitted with the base and plate.
 
@@ -95,4 +95,17 @@ Imported the 3d PCB design to Fusion and test fitted with the base and plate.
 
 <img width="1264" height="798" alt="image" src="https://github.com/user-attachments/assets/95cfbbe4-b7fb-4129-9149-8e2f7ea5f85b" />
 
-**Total time spent: 1h**
+Added 3d models of switch, keykap and stabilizers to for a better test fit.
+
+<img width="1145" height="780" alt="image" src="https://github.com/user-attachments/assets/97078b11-f460-435c-a5bb-4188c205195b" />
+
+For access to the USB port and On/Off switch I have added cutouts in the base.
+
+<img width="1280" height="537" alt="image" src="https://github.com/user-attachments/assets/09fd5433-fc44-47cb-8931-d2615503c25d" />
+
+**Total time spent: 3h**
+
+# July 22nd: Case top
+
+Added a case top with extrusions for my bolt heads.
+<img width="1230" height="756" alt="image" src="https://github.com/user-attachments/assets/af594741-8827-49b4-822b-a7687e245150" />
