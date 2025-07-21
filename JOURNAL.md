@@ -109,3 +109,13 @@ For access to the USB port and On/Off switch I have added cutouts in the base.
 
 Added a case top with extrusions for my bolt heads.
 <img width="1230" height="756" alt="image" src="https://github.com/user-attachments/assets/af594741-8827-49b4-822b-a7687e245150" />
+
+Used the fillet tool to round the edges. Looks very beautiful now.
+
+<img width="1295" height="700" alt="image" src="https://github.com/user-attachments/assets/9777e69c-ccf8-4b9c-9686-485c1ff920d5" />
+
+Added a small holder in the case bottom for my battery so that it dosent move.
+
+<img width="767" height="541" alt="Screenshot 2025-07-22 022229" src="https://github.com/user-attachments/assets/857b5f48-1248-4d3c-a303-1893f6d2d26e" />
+
+**Total time spent: 2h**
