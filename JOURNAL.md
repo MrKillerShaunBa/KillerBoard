@@ -118,4 +118,9 @@ Added a small holder in the case bottom for my battery so that it dosent move.
 
 <img width="767" height="541" alt="Screenshot 2025-07-22 022229" src="https://github.com/user-attachments/assets/857b5f48-1248-4d3c-a303-1893f6d2d26e" />
 
-**Total time spent: 2h**
+Made small holes in the case bottom to add non slip feet.
+
+<img width="1180" height="602" alt="image" src="https://github.com/user-attachments/assets/af4503f9-32c1-483f-835c-5ba819c8346a" />
+
+
+**Total time spent: 2.5h**
