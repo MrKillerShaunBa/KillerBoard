@@ -18,6 +18,7 @@ Making a mechanical keyboard
 | Battery | 1 | Robu.in | 256 | 2.97 | [here](https://robu.in/product/wly602540-600mah-3-7v-single-cell-rechargeable-lipo-battery/) |
 | PCB receptacle female | 1 | Amazon | 135 | 1.57 | [here](https://amzn.in/d/0Ydhh59) |
 | PCB receptacle male | 2 | Robu.in | 68 | 0.79 | [here](https://robu.in/product/361019115sg107601-jiln-2-54x1-9machined-pin-header-1x15p-180-l7-65-upper-pinpoint0-46-bottom-pinpoint0-46-au1u-pps/) |
+| Non-slip feet | 10 | Amazon | 239 | 2.77 | [here](https://amzn.in/d/7qjgKZF) |
 
 
 
