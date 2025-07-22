@@ -19,6 +19,9 @@ Making a mechanical keyboard
 | PCB receptacle female | 1 | Amazon | 135 | 1.57 | [here](https://amzn.in/d/0Ydhh59) |
 | PCB receptacle male | 2 | Robu.in | 68 | 0.79 | [here](https://robu.in/product/361019115sg107601-jiln-2-54x1-9machined-pin-header-1x15p-180-l7-65-upper-pinpoint0-46-bottom-pinpoint0-46-au1u-pps/) |
 | Non-slip feet | 100 | Amazon | 130 | 1.51 | [here](https://amzn.in/d/hfOWean) |
+| M3x25mm bolts | 12 | Robu | 167 | 1.93 | [here](https://robu.in/product/easymech-set-m3-x-25mm-socket-head-cap-allen-bolt-nut-12-pcs/) |
+| M3x15mm bolts | 10 | EDS | 139  | 1.61 | [here](https://store.edsystems.in/thunderbolt-set-of-m3-x-15mm-socket-head-cap-black-(allen)-bolt-and-nut-(10-pcs)) | M3x4mm heatset insert | 25 | Robu | 82 | 0.95 | [here](https://robu.in/product/m3-x-4-mm-brass-heat-set-knurl-threaded-round-insert-nut-25-pcs/) |
+
 
 
 
