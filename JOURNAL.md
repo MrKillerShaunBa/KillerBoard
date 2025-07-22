@@ -122,5 +122,13 @@ Made small holes in the case bottom to add non slip feet.
 
 <img width="1180" height="602" alt="image" src="https://github.com/user-attachments/assets/af4503f9-32c1-483f-835c-5ba819c8346a" />
 
+Learned about ZMK from various sources like Scotto Keebs and ZMK website. Tried to code the keymap on my own but found it quite overwhelming.
+Then I found [this](https://nickcoutsos.github.io/keymap-editor/) great tool which made the process a breeze.
 
-**Total time spent: 2.5h**
+My default layer has the normal keyboard buttons-
+<img width="1573" height="580" alt="image" src="https://github.com/user-attachments/assets/8334ad25-3fbd-43fb-8791-0fd596c4f487" />
+
+The other layer has Functions, Bluetooth settings and mouse control.
+<img width="1549" height="578" alt="image" src="https://github.com/user-attachments/assets/d58d1a17-abc7-4a4b-97a2-107a3514f3fe" />
+
+**Total time spent: 4.5h**
