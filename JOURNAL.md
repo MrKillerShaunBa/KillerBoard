@@ -5,6 +5,8 @@ description: "Making a mechanical keyboard for #Highway"
 created_at: "2025-07-13"
 ---
 
+### Time Spent Overall: 24.5h
+
 # July 14th: Learned about different keyboard styles and layouts
 
 Read online about mechanical keyboard design and layout. This guide from [Keyboard University](https://www.keyboard.university/100-courses/keyboard-sizes-layouts-gdeby) was extremely helpful. I have decided to go with a 65% because it is compact but perfectly fits my needs.
@@ -105,7 +107,7 @@ For access to the USB port and On/Off switch I have added cutouts in the base.
 
 **Total time spent: 3h**
 
-# July 22nd: Case top
+# July 22nd: Case top, finishing touches ad firmware
 
 Added a case top with extrusions for my bolt heads.
 <img width="1230" height="756" alt="image" src="https://github.com/user-attachments/assets/af594741-8827-49b4-822b-a7687e245150" />
