@@ -1,6 +1,18 @@
 # KillerBoard
-Making a mechanical keyboard
+Welcome to KillerBoard, a 65% wireless hot-swappable mechanical keyboard which is made in a sandwich mounted style. It has a 3d printed case, custom PCB and a ProMicro controller for it brains.
 
+I got the motivation to make this when I saw other cool keyboards the people have built for ``#Highway``. Also, I loved making my [Hackpad](https://github.com/MrKillerShaunBa/BajajPad) and wanted to try making something which was bigger, better and wireless of-course.
+
+## Featues
+
+- 65% compact layout
+- Wireless, uses Promicro Controller
+- ZMK firmware
+- Hotswappable
+- Brown tactile switches
+- 6 deg typing angle
+- 3D Printed case and plate
+- Sandwich mount
 
 ### BOM
 
