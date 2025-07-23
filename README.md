@@ -40,7 +40,7 @@ I got the motivation to make this when I saw other cool keyboards the people hav
 | Keycaps | 1 | StacksKB | 1299 | 15.10 | [here](https://stackskb.com/store/veekos-gradient-keycaps-cherry-profile-135-keys/) |
 | MX Style Switches | 25*3 | Genesispc | 2400 | 27.91 | [here](https://www.genesispc.in/products/c-equalz-x-tkc-kiwi-switches?variant=43389284286517) |
 | Stabilizers | 1 | StacksKB | 1595 | 18.55 | [here](https://stackskb.com/store/durock-smokey-screw-in-stabilizers-v2/) |
-| PCB | 5 | JLCPCB | | 11.05 | Includes Shipping |
+| PCB | 5 | JLCPCB | | 11.05 | Includes Shipping (Used Coupon) |
 | Case | 1 | Printing Legion | - | ~5 | Only shipping |
 | Hotswap Sockets | 10*7 | Meckeys | 536 | 6.23 | [here](https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/kailh-hot-swap-socket/) |
 | 1N4148 Diodes | 10*7 | StacksKB | 105 | 1.22 | [here](https://stackskb.com/store/1n4148-through-hole-diode/) |
