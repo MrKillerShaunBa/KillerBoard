@@ -28,6 +28,11 @@ I got the motivation to make this when I saw other cool keyboards the people hav
 ![front](./assets/pcb_front.png)
 ![back](./assets/pcb_back.png)
 
+## ZMK Keymap 
+
+![layer0](./assets/firm_1.png)
+![layer1](./assets/firm_2.png)
+
 ### BOM
 
 | Product | Quantity | Source | Price(INR) | Price($) | Link |
@@ -35,7 +40,7 @@ I got the motivation to make this when I saw other cool keyboards the people hav
 | Keycaps | 1 | StacksKB | 1299 | 15.10 | [here](https://stackskb.com/store/veekos-gradient-keycaps-cherry-profile-135-keys/) |
 | MX Style Switches | 25*3 | Genesispc | 2400 | 27.91 | [here](https://www.genesispc.in/products/c-equalz-x-tkc-kiwi-switches?variant=43389284286517) |
 | Stabilizers | 1 | StacksKB | 1595 | 18.55 | [here](https://stackskb.com/store/durock-smokey-screw-in-stabilizers-v2/) |
-| PCB | 1 | | | | |
+| PCB | 5 | JLCPCB | | 11.05 | Includes Shipping |
 | Case | 1 | Printing Legion | - | ~5 | Only shipping |
 | Hotswap Sockets | 10*7 | Meckeys | 536 | 6.23 | [here](https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/kailh-hot-swap-socket/) |
 | 1N4148 Diodes | 10*7 | StacksKB | 105 | 1.22 | [here](https://stackskb.com/store/1n4148-through-hole-diode/) |
@@ -48,6 +53,6 @@ I got the motivation to make this when I saw other cool keyboards the people hav
 | M3x25mm bolts | 12 | Robu | 167 | 1.93 | [here](https://robu.in/product/easymech-set-m3-x-25mm-socket-head-cap-allen-bolt-nut-12-pcs/) |
 | M3x15mm bolts | 10 | EDS | 139  | 1.61 | [here](https://store.edsystems.in/thunderbolt-set-of-m3-x-15mm-socket-head-cap-black-(allen)-bolt-and-nut-(10-pcs)) | M3x4mm heatset insert | 25 | Robu | 82 | 0.95 | [here](https://robu.in/product/m3-x-4-mm-brass-heat-set-knurl-threaded-round-insert-nut-25-pcs/) |
 
-
+Total Cost: About $105-110
 
 
