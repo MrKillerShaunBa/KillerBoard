@@ -20,6 +20,8 @@ I got the motivation to make this when I saw other cool keyboards the people hav
 
 ![case](./assets/case.png)
 ![parts](./assets/Case_parts.png)
+![3dF](./assets/3d_pcb_f.png)
+![3dB](./assets/3d_pcb_b.png)
 
 ## PCB
 
