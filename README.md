@@ -14,6 +14,20 @@ I got the motivation to make this when I saw other cool keyboards the people hav
 - 3D Printed case and plate
 - Sandwich mount
 
+![full](./assets/full.png)
+
+## CAD
+
+![case](./assets/case.png)
+![parts](./assets/Case_parts.png)
+
+## PCB
+
+![schematic](./assets/schematic.png)
+![PCB](./assets/PCB.png)
+![front](./assets/pcb_front.png)
+![back](./assets/pcb_back.png)
+
 ### BOM
 
 | Product | Quantity | Source | Price(INR) | Price($) | Link |
