@@ -56,6 +56,6 @@ I got the motivation to make this when I saw other cool keyboards the people hav
 | M3x15mm bolts | 10 | EDS | 139  | 1.61 | [here](https://store.edsystems.in/thunderbolt-set-of-m3-x-15mm-socket-head-cap-black-(allen)-bolt-and-nut-(10-pcs)) | M3x4mm heatset insert | 25 | Robu | 82 | 0.95 | [here](https://robu.in/product/m3-x-4-mm-brass-heat-set-knurl-threaded-round-insert-nut-25-pcs/) |
 | M3x4mm heatset inserts | 25 | Robu | 82 | 0.95 | [here](https://robu.in/product/m3-x-4-mm-brass-heat-set-knurl-threaded-round-insert-nut-25-pcs/) |
 
-Total Cost: About $105-110
+Total Cost: About $108-110
 
 
