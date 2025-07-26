@@ -1,4 +1,4 @@
-<img width="940" height="523" alt="image" src="https://github.com/user-attachments/assets/e571f312-3bbe-4bcf-a340-c50493518b06" /># KillerBoard
+# KillerBoard
 Welcome to KillerBoard, a 65% wireless hot-swappable mechanical keyboard which is made in a sandwich mounted style. It has a 3d printed case, custom PCB and a ProMicro controller for it brains.
 
 I got the motivation to make this when I saw other cool keyboards the people have built for ``#Highway``. Also, I loved making my [Hackpad](https://github.com/MrKillerShaunBa/BajajPad) and wanted to try making something which was bigger, better and wireless of-course.
