@@ -1,4 +1,4 @@
-# KillerBoard
+<img width="940" height="523" alt="image" src="https://github.com/user-attachments/assets/e571f312-3bbe-4bcf-a340-c50493518b06" /># KillerBoard
 Welcome to KillerBoard, a 65% wireless hot-swappable mechanical keyboard which is made in a sandwich mounted style. It has a 3d printed case, custom PCB and a ProMicro controller for it brains.
 
 I got the motivation to make this when I saw other cool keyboards the people have built for ``#Highway``. Also, I loved making my [Hackpad](https://github.com/MrKillerShaunBa/BajajPad) and wanted to try making something which was bigger, better and wireless of-course.
@@ -54,6 +54,7 @@ I got the motivation to make this when I saw other cool keyboards the people hav
 | Non-slip feet | 100 | Amazon | 130 | 1.51 | [here](https://amzn.in/d/hfOWean) |
 | M3x25mm bolts | 12 | Robu | 167 | 1.93 | [here](https://robu.in/product/easymech-set-m3-x-25mm-socket-head-cap-allen-bolt-nut-12-pcs/) |
 | M3x15mm bolts | 10 | EDS | 139  | 1.61 | [here](https://store.edsystems.in/thunderbolt-set-of-m3-x-15mm-socket-head-cap-black-(allen)-bolt-and-nut-(10-pcs)) | M3x4mm heatset insert | 25 | Robu | 82 | 0.95 | [here](https://robu.in/product/m3-x-4-mm-brass-heat-set-knurl-threaded-round-insert-nut-25-pcs/) |
+| M3x4mm heatset inserts | 25 | Robu | 82 | 0.95 | [here](https://robu.in/product/m3-x-4-mm-brass-heat-set-knurl-threaded-round-insert-nut-25-pcs/) |
 
 Total Cost: About $105-110
 
